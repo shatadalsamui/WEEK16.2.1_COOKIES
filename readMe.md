@@ -24,3 +24,5 @@ This project demonstrates authentication using cookies in a Node.js environment.
 - Make sure to set environment variables as needed.
 - For development only; do not use in production without further security improvements.
 
+
+
